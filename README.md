@@ -78,7 +78,7 @@ wget -qO - bench.sh | bash
 ```
 Бенчмарк скорости (регионы России):
 ```bash
-wget -qO- bench.openode.xyz | bash
+wget -qO- https://raw.githubusercontent.com/jomertix/server-scripts/refs/heads/master/speedtest/countries/speedtest_ru.sh | bash
 ```
 Тест доступности сервисов (Stream Platforms & Game Regions):
 ```bash
