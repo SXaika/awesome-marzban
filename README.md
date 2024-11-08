@@ -84,6 +84,10 @@ wget -qO- https://raw.githubusercontent.com/jomertix/server-scripts/refs/heads/m
 ```bash
 bash <(curl -L -s https://git.io/JRw8R) -E en -M 4
 ```
+Проверка блокировки IP зарубежными сервисами
+```bash
+bash <(curl -Ls IP.Check.Place) -l en
+```
 
 ### Другие скрипты
 Смена ядра Xray:
