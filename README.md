@@ -109,6 +109,7 @@ bash <(curl -fsSL https://cdn.sm1ky.pl/s/FGdCjrpHbQ5Rq3b/download)
 - [marzpy](https://github.com/mewhrzad/marzpy)
 - [marzban-api-client](https://github.com/oXIIIo/marzban-api-client)
 - [marzban](https://github.com/sm1ky/marzban_api)
+- [MarzJS](https://github.com/maniwrld/marzjs)
 
 ## Коммерция/боты
 - [marzban-shop](https://github.com/gunsh1p/marzban-shop)
