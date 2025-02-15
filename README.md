@@ -138,5 +138,5 @@ bash <(curl -fsSL https://cdn.sm1ky.pl/s/FGdCjrpHbQ5Rq3b/download)
 - [marzban-haproxy-ansible](https://github.com/v-kamerdinerov/marzban-haproxy-ansible) - набор Ansible ролей для автоматической настройки Marzban.
 
 ## Другие утилиты
-- [marzban-torrent-blocker](https://github.com/kutovoys/marzban-torrent-blocker)
-- [xray-online](https://mmmray.github.io/xray-online)
+- [xray-torrent-blocker](https://github.com/kutovoys/xray-torrent-blocker)
+- [xray-online](https://iambabyninja.github.io/xray-config/)
