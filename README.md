@@ -111,6 +111,7 @@ bash <(curl -fsSL https://cdn.sm1ky.pl/s/FGdCjrpHbQ5Rq3b/download)
 - [marzban-api-client](https://github.com/oXIIIo/marzban-api-client)
 - [marzban](https://github.com/sm1ky/marzban_api)
 - [MarzJS](https://github.com/maniwrld/marzjs)
+- [marzban-sdk](https://www.npmjs.com/package/marzban-sdk?activeTab=readme) (TypeScript)
 
 ## Коммерция/боты
 - [marzban-shop](https://github.com/gunsh1p/marzban-shop)
