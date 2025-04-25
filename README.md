@@ -110,6 +110,7 @@ bash <(curl -fsSL https://cdn.sm1ky.pl/s/FGdCjrpHbQ5Rq3b/download)
 - [marzpy](https://github.com/mewhrzad/marzpy)
 - [marzban-api-client](https://github.com/oXIIIo/marzban-api-client)
 - [marzban](https://github.com/sm1ky/marzban_api)
+- [aiomarzban](https://github.com/P1nk-L0rD/aiomarzban)
 - [MarzJS](https://github.com/maniwrld/marzjs)
 - [marzban-sdk](https://www.npmjs.com/package/marzban-sdk?activeTab=readme) (TypeScript)
 
@@ -140,4 +141,3 @@ bash <(curl -fsSL https://cdn.sm1ky.pl/s/FGdCjrpHbQ5Rq3b/download)
 
 ## Другие утилиты
 - [xray-torrent-blocker](https://github.com/kutovoys/xray-torrent-blocker)
-- [xray-online](https://iambabyninja.github.io/xray-config/)
