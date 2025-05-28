@@ -57,6 +57,7 @@
 - [Sing-box](https://github.com/oXIIIo/marzban-template)
 - [marzban-custom-home](https://github.com/LibernetDigital/marzban-custom-home)
 - [confluence-marzban-home](https://github.com/sm1ky/confluence-marzban-home)
+- [marzban-sub](https://github.com/sm1ky/marzban-sub)
 
 ## Сканеры SNI
 - [RealiTLScanner](https://github.com/XTLS/RealiTLScanner)
