@@ -132,6 +132,7 @@ bash <(curl -fsSL https://cdn.sm1ky.pl/s/FGdCjrpHbQ5Rq3b/download)
 - [marzban_sqlite_streamlit](https://github.com/lifeindarkside/marzban_sqlite_streamlit)
 - [marzban-grafana-pannel](https://github.com/lifeindarkside/marzban-grafana-pannel)
 - [marzban-exporter](https://github.com/kutovoys/marzban-exporter)
+- [xray-logger](https://github.com/likstanov/xray-logger)
 
 ## Генераторы inbound'ов
 - [MarzbanInboundGenerator](https://azavaxhuman.github.io/MarzbanInboundGenerator/v2)
